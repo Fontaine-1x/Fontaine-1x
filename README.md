@@ -23,7 +23,7 @@ A **15-year-old Editor** passionate about creating clean, creative, and high-qua
 
 ### Contact Me
 
-![Discord](https://img.shields.io/badge/Discord-mrdazculy-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Fontaine-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ### Discord Server
 
