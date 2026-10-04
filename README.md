@@ -6,7 +6,7 @@ A **15-year-old Editor** passionate about creating clean, creative, and high-qua
 
 ### Editing Software & Languages
 
-**Main Software**  
+**Main Software & Language**  
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
