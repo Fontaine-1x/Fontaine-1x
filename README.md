@@ -4,11 +4,11 @@ A **15-year-old Editor** passionate about creating clean, creative, and high-qua
 
 ---
 
-### Editing & Software
+### Editing Software & Languages
 
 **Main Software**  
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **What I Do**
 - Motion graphics
@@ -18,6 +18,9 @@ A **15-year-old Editor** passionate about creating clean, creative, and high-qua
 - Editing Commissions 
 - After Effects compositions
 - Creative animations
+- Basic TypeScript development
+- Backend development
+
 
 ---
 
